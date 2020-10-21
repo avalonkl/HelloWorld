@@ -28,7 +28,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>core.Crypto</mainClass>
+							<mainClass>core.HelloWorld</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
